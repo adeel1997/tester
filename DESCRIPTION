@@ -1,0 +1,11 @@
+Package: tester
+Type: Package
+Title: test the new packagge
+Version: 0.1.0
+Author: Adeel Khan
+Maintainer: Adeel Khan <adeel707@gmail.com>
+Description: My package and it is done to test thing.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
