@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.com/adeel1997/tester.svg?branch=master)](https://travis-ci.com/adeel1997/tester)
 <!-- badges: end -->
 
 The goal of tester is to publish first package on Github. So more of
