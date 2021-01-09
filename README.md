@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.com/adeel1997/tester.svg?branch=master)](https://travis-ci.com/adeel1997/tester)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/adeel1997/tester?branch=master&svg=true)](https://ci.appveyor.com/project/adeel1997/tester)
 <!-- badges: end -->
 
 The goal of tester is to publish first package on Github. So more of
